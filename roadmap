@@ -1,0 +1,10 @@
+/elderly-healthcare
+    ├── index.html
+    ├── assessments.html
+    ├── blogs.html
+    ├── products.html
+    ├── community.html
+    ├── consultation.html
+    ├── faqs.html
+    ├── styles.css
+    └── scripts.js
